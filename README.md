@@ -1,6 +1,6 @@
 ### Olá sou o Elson 👨🏿‍💻
 
-[![Git](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Elson-Santos)
+[![Git](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=radical)](https://github.com/Elson-Santos)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elson-santos&hide_progress=true)
 
