@@ -4,7 +4,7 @@
 
 
 
-![Elson santos GitHub stats](https://github-readme-stats.vercel.app/api?username=elson-santos&show_icons=true&theme=radical)
+![Elson santos GitHub stats](https://github-readme-stats.vercel.app/api?username=elson-santo&show_icons=true&theme=radical)
 
 ## Tecnologias que eu uso no meu dia
 
