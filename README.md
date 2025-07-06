@@ -1,10 +1,10 @@
 ### Olá sou o Elson 👨🏿‍💻
 
-[![Git](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=radical)](https://github.com/Elson-Santos)
+[![Git](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=radical)](https://github.com/Elson-Santo)
 
 
 
-![Elson santos GitHub stats](https://github-readme-stats.vercel.app/api?username=elson-santo&show_icons=true&theme=radical)
+![Elson santos GitHub stats](https://github-readme-stats.vercel.app/api?username=elson-santos&show_icons=true&theme=radical)
 
 ## Tecnologias que eu uso no meu dia
 
