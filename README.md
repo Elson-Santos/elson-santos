@@ -6,18 +6,6 @@
 
 ![Elson santos GitHub stats](https://github-readme-stats.vercel.app/api?username=elson-santos&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elson-santos&hide_progress=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elson-santos&layout=pie)](https://github.com/elson-santos/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elson-santos&layout=donut-vertical)](https://github.com/elson-santos/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elson-santos&layout=donut)](https://github.com/elson-santos/github-readme-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elson-santos&layout=compact)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elson-santos&layout=compact)
-
 
 ## Tecnologias que eu uso no meu dia
 
