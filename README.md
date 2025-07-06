@@ -10,6 +10,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elson-santos&layout=pie)](https://github.com/elson-santos/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elson-santos&layout=donut-vertical)](https://github.com/elson-santos/github-readme-stats)
+
 ## Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block"><br/>
