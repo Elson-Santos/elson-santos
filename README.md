@@ -18,7 +18,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elson-santos&layout=compact)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elson-santos&langs_count=12)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elson-santos&langs_count=12icons=true&theme=radical)
 
 ## Tecnologias que eu uso no meu dia
 
